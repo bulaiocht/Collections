@@ -1,6 +1,8 @@
 import list.array.ArrayLizt;
 import list.array.Wrapper;
 
+import java.util.LinkedList;
+
 /**
  *
  * Created by Kocherha Vitalii on 11.06.16.
@@ -32,6 +34,8 @@ public class CollectMain {
 
         System.out.println("List container capacity: " + lizt.getContainerLength());
         System.out.println("List size: " + lizt.size());
+
+        LinkedList linkedList;
 
     }
 }
